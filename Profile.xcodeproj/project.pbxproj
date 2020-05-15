@@ -99,8 +99,8 @@
 		F9841E3D246D798000E7E0BF /* Profile */ = {
 			isa = PBXGroup;
 			children = (
-				F9841E3E246D798000E7E0BF /* AppDelegate.swift */,
 				F9841E40246D798000E7E0BF /* SceneDelegate.swift */,
+				F9841E3E246D798000E7E0BF /* AppDelegate.swift */,
 				F9841E42246D798000E7E0BF /* ViewController.swift */,
 				F9841E44246D798000E7E0BF /* Main.storyboard */,
 				F9841E47246D798200E7E0BF /* Assets.xcassets */,
